@@ -1,6 +1,7 @@
 # Edvora-Task
 This is react app simulate rides it have main parts : Neartest , Upcoming , Past
-
+## Live Demo
+https://edvora-c857e.web.app/
 <section>
 <h2> Neartest </h2>
 <p> A nearest ride is a ride that includes your station code or a number closest to your station code in the station_path array. 
